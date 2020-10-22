@@ -47,6 +47,7 @@ class _MyHomePageState extends State<MyHomePage> {
         PageInfo("test_photo", (ctx) => TestPhotoRoute()),
         PageInfo("test_video", (ctx) => TestChewieDemoRouter()),
         //TestChewieDemoRouter
+        PageInfo("test_tabbar", (ctx) => TestTabbarRoute()),
 
         PageInfo("Quick Scrollbar", (ctx) => QuickScrollbarRoute()),
         PageInfo("TurnBox", (ctx) => TurnBoxRoute()),

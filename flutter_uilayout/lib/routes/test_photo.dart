@@ -51,6 +51,7 @@ class TestPhotoRouteState extends State<TestPhotoRoute> {
         ),
       ),
       floatingActionButton: FloatingActionButton(
+        heroTag:'你大爷',
         onPressed:_pickImage,
         tooltip: '选择图片',
         child: Icon(Icons.add_a_photo),

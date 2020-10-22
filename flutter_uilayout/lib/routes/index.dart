@@ -19,3 +19,4 @@ export 'test_http.dart';
 export 'test_iosview.dart';
 export 'test_photo.dart';
 export 'test_video.dart';
+export 'test_tabbar.dart';

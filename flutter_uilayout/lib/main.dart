@@ -44,7 +44,10 @@ class _MyHomePageState extends State<MyHomePage> {
         PageInfo("test", (ctx) => TestRoute()),
         PageInfo("test_http", (ctx) => TestHttpRoute()),
         PageInfo("test_iosView", (ctx) => TestIosViewRoute()),
-        //flukit的demo
+        PageInfo("test_photo", (ctx) => TestPhotoRoute()),
+        PageInfo("test_video", (ctx) => TestChewieDemoRouter()),
+        //TestChewieDemoRouter
+
         PageInfo("Quick Scrollbar", (ctx) => QuickScrollbarRoute()),
         PageInfo("TurnBox", (ctx) => TurnBoxRoute()),
         PageInfo("AnimatedRotationBox", (ctx) => AnimatedRotationBoxRoute()),

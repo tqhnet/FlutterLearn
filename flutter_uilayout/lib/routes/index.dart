@@ -17,3 +17,5 @@ export 'nine_grid/nine_grid_page.dart';
 //自定义引入测试
 export 'test_http.dart';
 export 'test_iosview.dart';
+export 'test_photo.dart';
+export 'test_video.dart';

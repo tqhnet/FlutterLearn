@@ -48,7 +48,7 @@ class TestHttpRouteState extends State<TestHttpRoute> {
       //日志打印
       interceptors: [
         // HeaderInterceptor(),
-        // LogInterceptor(),
+        LogInterceptor(),
       ],
     );
   }
